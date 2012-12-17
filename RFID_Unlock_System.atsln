@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "RFID_Unlock_System", "RFID_Unlock_System\RFID_Unlock_System.cppproj", "{677C16F0-D10D-4A6F-BB92-34691502546E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677C16F0-D10D-4A6F-BB92-34691502546E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{677C16F0-D10D-4A6F-BB92-34691502546E}.Debug|AVR.Build.0 = Debug|AVR
+		{677C16F0-D10D-4A6F-BB92-34691502546E}.Release|AVR.ActiveCfg = Release|AVR
+		{677C16F0-D10D-4A6F-BB92-34691502546E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
